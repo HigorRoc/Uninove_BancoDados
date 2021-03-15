@@ -20,6 +20,7 @@ Este repositório será utilizado para compor todos códigos + links da discplin
 > Link do Google Drive (Higor): [Clique aqui](https://drive.google.com/drive/folders/1e3O-IlCwIsS5-u1UhyTI-8LJNqs8opRj?usp=sharing)
 
 > Link do Oracle + SQL Developer: [Clique aqui](https://drive.google.com/drive/u/3/folders/1_bo0HSkWXbUA88DxXIGfx2N-AvqkLMYO)
+- Lembrem-se de antes de executar o SQL Developer, pesquisem "Start Database" e executem, após isso abram o SQL Developer.
 
 ---
 
