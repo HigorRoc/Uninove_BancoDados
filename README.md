@@ -8,9 +8,9 @@ Este repositório será utilizado para compor todos códigos + links da discplin
 ---
 
 ### Atividades
-> Status da Atividade 01.03.2021: Entregue :heavy_check_mark:
+> Status da Atividade 01.03.2021: Feito :heavy_check_mark:
 
-> Status da Atividade 00.00.2021: Em desenvolvimento :warning:
+> Status da Atividade 15.03.2021: Feito :heavy_check_mark:
 
 ---
 
