@@ -27,7 +27,8 @@ Este repositório será utilizado para compor todos códigos + links da discplin
 - **Aula 01 - 01.03:** Comandos SQL + Exercícios ([Clique aqui](https://github.com/HigorRoc/Uninove_2021.1_BancoDados/tree/main/Aula%2001%20-%2001.03.2021))
 - **Aula 02 - 08.03:** Correção da Atividade - ([Clique aqui](https://github.com/HigorRoc/Uninove_2021.1_BancoDados/tree/main/Aula%2002%20-%2008.03.2021))
 - **Aula 03 - 15.03:** Comandos PL/SQL + Exercícios ([Clique aqui](https://github.com/HigorRoc/Uninove_2021.1_BancoDados/blob/main/Aula%2003%20-%2015.03.2021/Script%2001%20-%20Cria%C3%A7%C3%A3o%20de%20Usu%C3%A1rio.sql))
-- **Aula 04 - 26.04:** Revisão + Nova Professora ([Clique aqui](https://github.com/HigorRoc/Uninove_2021.1_BancoDados/tree/main/Aula%2004%20-%2026.04.2021)
+- **Aula 04 - 26.04:** Revisão + Nova Professora ([Clique aqui](https://github.com/HigorRoc/Uninove_2021.1_BancoDados/tree/main/Aula%2004%20-%2026.04.2021))
+- **Aula 05 - 03.05:** Revisão PL/SQL + Exercícios ([Clique aqui](https://github.com/HigorRoc/Uninove_2021.1_BancoDados/tree/main/Aula%2005%20-%2003.05.2021))
 
 ---
 
