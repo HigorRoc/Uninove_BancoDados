@@ -45,3 +45,19 @@ BEGIN
         DBMS_OUTPUT.PUT_LINE('O NÚMERO ' || NUM || ' É IMPÁR');
     END IF;
 END;
+
+/*
+====================================================
+*/
+
+--ATIVIDADE 04
+DECLARE
+    V_ANO NUMBER(4) := 2021;
+BEGIN
+    IF (MOD(V_ANO,4) = 0 AND MOD(V_ANO,100) != 0)
+    OR (MOD(V_ANO,400) = 0) THEN
+        DBMS_OUTPUT.PUT_LINE('O ano ' || V_ANO || ' é BISSEXTO');
+    ELSE
+        DBMS_OUTPUT.PUT_LINE('O ano ' || V_ANO || ' não é BISSEXTO');
+    END IF;
+END;
