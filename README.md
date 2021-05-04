@@ -17,8 +17,6 @@ Este repositório será utilizado para compor todos códigos + links da discplin
 ### :pushpin: Links Utilizados
 > Link do Google Drive (Prof.): [Clique aqui](https://drive.google.com/drive/u/3/folders/1oSkEZATFsBiAnQhPbOzvzBSRAxfz2dX_)
 
-> Link do Google Drive (Higor): [Clique aqui](https://drive.google.com/drive/folders/1e3O-IlCwIsS5-u1UhyTI-8LJNqs8opRj?usp=sharing)
-
 > Link do Oracle + SQL Developer: [Clique aqui](https://drive.google.com/drive/u/3/folders/1_bo0HSkWXbUA88DxXIGfx2N-AvqkLMYO)
 
 ---
