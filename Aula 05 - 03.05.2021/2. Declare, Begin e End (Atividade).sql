@@ -28,3 +28,20 @@ BEGIN
     DBMS_OUTPUT.PUT_LINE('NOME FUNCIONÁRIO: ' || FUNCIONARIO);
     DBMS_OUTPUT.PUT_LINE('SALARIO ATUAL: R$' || SALARIO_NOVO);
 END;
+
+/*
+====================================================
+*/
+
+--ATIVIDADE 03
+DECLARE
+    NUM NUMBER(2);
+BEGIN
+    NUM := &NUM_PESQUISA;
+    -- MOD RETORNA O RESTO DE UMA DIVISÃO
+    IF MOD(NUM,2) = 0 THEN
+        DBMS_OUTPUT.PUT_LINE('O NÚMERO ' || NUM || ' É PAR');
+    ELSE
+        DBMS_OUTPUT.PUT_LINE('O NÚMERO ' || NUM || ' É IMPÁR');
+    END IF;
+END;
