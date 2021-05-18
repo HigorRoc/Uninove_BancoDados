@@ -8,10 +8,7 @@ Este repositório será utilizado para compor todos códigos + links da discplin
 ---
 
 ### :pushpin: Atividades
-> Status da Atividade 01.03.2021: Feito :heavy_check_mark:
-
-> Status da Atividade 15.03.2021: Feito :heavy_check_mark:
-
+> Status da Atividade 01: Feito (17.05.2021) :heavy_check_mark:
 ---
 
 ### :pushpin: Links Utilizados
