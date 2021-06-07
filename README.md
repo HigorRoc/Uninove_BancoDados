@@ -9,6 +9,7 @@ Este repositório será utilizado para compor todos códigos + links da discplin
 
 ### :pushpin: Atividades
 > Status da [Atividade 01](https://github.com/HigorRoc/Uninove_2021.1_BancoDados/tree/main/Aula%2007%20-%2017.05.2021): Feito (17.05.2021) :heavy_check_mark:
+
 > Status da Atividade 02: Feito (07.06.2021) :heavy_check_mark:
 ---
 
