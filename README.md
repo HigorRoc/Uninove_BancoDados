@@ -1,4 +1,4 @@
-<img src="https://github.com/HigorRoc/Uninove_2021.1/blob/main/Uninove-Logo.png" width="120" height="60">
+<img src="https://github.com/HigorRoc/ImagensUtilizadas/blob/main/logos/LogoUninove.png" width="120" height="60">
 
 # Organização do Banco de Dados :computer:
 ###  Prof. Liliane Bento - 2021/1
